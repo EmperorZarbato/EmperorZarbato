@@ -109,14 +109,17 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 ```
 🎯 ACCURACY RATING
+
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Bug Detection
 
-🚀 SPEED INDEX  
+🚀 SPEED INDEX
+
 ▓▓▓▓▓▓▓▓▓░ 90%
 Test Execution
 
 🔒 SECURITY LEVEL
+
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Vulnerability Scan
 ```
@@ -126,14 +129,17 @@ Vulnerability Scan
 
 ```
 ⚡ AUTOMATION RATE
+
 ▓▓▓▓▓▓▓▓▓░ 95%
 Test Coverage
 
 🛡️ DEFENSE MATRIX
+
 ▓▓▓▓▓▓▓▓░░ 85%
 Penetration Resist
 
 💻 CODE QUALITY
+
 ▓▓▓▓▓▓▓▓▓░ 92%
 Clean Architecture
 ```
@@ -255,9 +261,9 @@ Clean Architecture
 **⚡ CANAIS DE COMUNICAÇÃO SEGUROS:**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorZarbato)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-zarbatto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/gabriel-zarbatto](https://www.linkedin.com/in/gabriel-milanez-zarbato-66b033208/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielzarbatto1214@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/emperorzarbato)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tubalhaospartan)
 
 </div>
 
@@ -328,11 +334,11 @@ Connection to future terminated.
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança       ║
+║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança        ║
 ║    🔒 Todas as atividades são logadas e analisadas                                  ║
-║    ⚠️  Acesso não autorizado será rastreado e reportado                            ║
+║    ⚠️  Acesso não autorizado será rastreado e reportado                             ║
 ║                                                                                      ║
-║    💀 "In a world of 1s and 0s, be the exception that proves the rule"            ║
+║    💀 "In a world of 1s and 0s, be the exception that proves the rule"              ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```

@@ -1,10 +1,10 @@
 ```
-    ██████╗ █████╗  ██████╗ ███████╗
-   ██╔════╝██╔══██╗██╔═══██╗██╔════╝
-   ██║     ███████║██║   ██║███████╗
-   ██║     ██╔══██║██║   ██║╚════██║
-   ╚██████╗██║  ██║╚██████╔╝███████║
-    ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+                            ██████╗ █████╗  ██████╗ ███████╗
+                           ██╔════╝██╔══██╗██╔═══██╗██╔════╝
+                           ██║     ███████║██║   ██║███████╗
+                           ██║     ██╔══██║██║   ██║╚════██║
+                           ╚██████╗██║  ██║╚██████╔╝███████║
+                            ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                                             
     ██████╗  █████╗ ███████╗████████╗███████╗     ██╗ █████╗ ███╗   ██╗████████╗███████╗
     ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝     ██║██╔══██╗████╗  ██║╚══██╔══╝██╔════╝
@@ -16,14 +16,22 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=100&lines=CAOS+RASTEJANTE;THE+ANCIENT+CODE;FROM+THE+ABYSS;QUALITY+AWAKENS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=4000&pause=2000&color=9932CC&background=0A0010&center=true&vCenter=true&width=1000&height=100&lines=CAOS+RASTEJANTE;THE+ANCIENT+CODE;FROM+THE+ABYSS;QUALITY+AWAKENS)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&duration=3000&pause=1500&color=FF0000&background=111111&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Breaking+Reality+Building+Nightmares)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&duration=3000&pause=1500&color=8A2BE2&background=1A0033&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Azathoth+Dreams+in+Digital+Chaos)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=32&duration=5000&pause=2000&color=DA70D6&background=0D001A&center=true&vCenter=true&width=1000&height=100&lines=🌌+Yog-Sothoth+Guards+the+Gateway+🌌;🕳️+Nyarlathotep+Crawls+Through+Networks+🕳️;👁️+Shub-Niggurath+Breeds+in+Databases+👁️;⭐+The+Outer+Gods+Watch+Through+Code+⭐)
 
 ```
-         "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
-              In his house at R'lyeh, the Code sleeps...
-                    But in strange aeons, QA may die
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    
+    🌌 "That is not dead which can eternal lie, and with strange aeons even death may die" 🌌
+    🕳️ Beyond the stars, Azathoth dreams of infinite void and digital nightmares 🕳️
+    👁️ Yog-Sothoth knows the gate, Yog-Sothoth IS the gate, Yog-Sothoth IS the code 👁️
+    ⭐ In the cosmic depths where Outer Gods dwell, Quality Testing becomes eternal ritual ⭐
 ```
 
 ```
@@ -41,7 +49,7 @@
  ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Matrix...;QA+Automation+%7C+Cybersecurity+Enthusiast;Penetration+Testing+%7C+Code+Analysis;Breaking+Systems+to+Build+Better+Ones)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=9370DB&background=1A0040&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Cosmic+Void...;QA+Automation+%7C+Eldritch+Enthusiast;Penetration+Testing+%7C+Reality+Distortion;Breaking+Dimensions+to+Build+Better+Ones)
 
 </div>
 
@@ -77,7 +85,7 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=WEAPONS+OF+CHOICE)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=WEAPONS+OF+CHOICE)
 
 ```
 ===============================================================================
@@ -107,7 +115,7 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=STATISTICAL+ANALYSIS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=STATISTICAL+ANALYSIS)
 
 ```
 ===============================================================================
@@ -164,7 +172,7 @@ Clean Architecture
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🚨+MISSION+DASHBOARD+🚨)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=🚨+MISSION+DASHBOARD+🚨)
 
 ```
 ===============================================================================
@@ -216,7 +224,7 @@ Clean Architecture
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔒+CLASSIFIED+PROJECTS+🔒)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=🔒+CLASSIFIED+PROJECTS+🔒)
 
 ```
 ===============================================================================
@@ -256,7 +264,7 @@ Clean Architecture
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔗+ESTABLISHING+CONNECTIONS+🔗)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=🔗+ESTABLISHING+CONNECTIONS+🔗)
 
 ```
 ===============================================================================
@@ -277,7 +285,7 @@ Clean Architecture
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=ACHIEVEMENT+UNLOCKED)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=9370DB&background=1A0040&center=true&vCenter=true&width=600&height=50&lines=ACHIEVEMENT+UNLOCKED)
 
 ```
 ===============================================================================

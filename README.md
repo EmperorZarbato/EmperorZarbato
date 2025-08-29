@@ -23,11 +23,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=32&duration=5000&pause=2000&color=DA70D6&background=0D001A&center=true&vCenter=true&width=1000&height=100&lines=🌌+Yog-Sothoth+Guards+the+Gateway+🌌;🕳️+Nyarlathotep+Crawls+Through+Networks+🕳️;👁️+Shub-Niggurath+Breeds+in+Databases+👁️;⭐+The+Outer+Gods+Watch+Through+Code+⭐)
 
-```
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
     
     🌌 "That is not dead which can eternal lie, and with strange aeons even death may die" 🌌
     🕳️ Beyond the stars, Azathoth dreams of infinite void and digital nightmares 🕳️

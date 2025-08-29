@@ -17,9 +17,9 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=4000&pause=2000&color=9932CC&background=0A0010&center=true&vCenter=true&width=1000&height=100&lines=CAOS+RASTEJANTE;THE+ANCIENT+CODE;FROM+THE+ABYSS;QUALITY+AWAKENS)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=40&duration=4000&pause=2000&color=9932CC&background=0A0010&center=true&vCenter=true&width=1000&height=100&lines=CAOS+RASTEJANTE;THE+ANCIENT+CODE;FROM+THE+ABYSS;QUALITY+AWAKENS)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&duration=3000&pause=1500&color=8A2BE2&background=1A0033&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Azathoth+Dreams+in+Digital+Chaos)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Amatic+SC&size=32&duration=3000&pause=1500&color=8A2BE2&background=1A0033&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Azathoth+Dreams+in+Digital+Chaos)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=32&duration=5000&pause=2000&color=DA70D6&background=0D001A&center=true&vCenter=true&width=1000&height=100&lines=🌌+Yog-Sothoth+Guards+the+Gateway+🌌;🕳️+Nyarlathotep+Crawls+Through+Networks+🕳️;👁️+Shub-Niggurath+Breeds+in+Databases+👁️;⭐+The+Outer+Gods+Watch+Through+Code+⭐)
 

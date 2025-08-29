@@ -218,7 +218,7 @@ Clean Architecture
 | `Styling` | **Tailwind CSS** | ████████░░ 80% | Responsive Design |
 | `Security Testing` | **OWASP ZAP** | ███████░░░ 75% | Vulnerability Scan |
 | `Network Analysis` | **Wireshark** | ██████░░░░ 70% | Traffic Analysis |
-| `Penetration** | **Metasploit** | ██████░░░░ 65% | Exploit Framework |
+| `Penetration` | **Metasploit** | ██████░░░░ 65% | Exploit Framework |
 | `OS Security` | **Kali Linux** | ███████░░░ 75% | Pentesting Platform |
 
 </div>

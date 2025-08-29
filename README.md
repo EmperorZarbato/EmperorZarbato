@@ -1,27 +1,9 @@
 ```
-    ██████╗ █![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=35&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=120&lines=C̴̰̈A̷̲͌O̵̜̽S̸̱̈...;...R̴̭̾A̸̰̒S̷̰̈T̴̜̽E̸̱̒J̷̰̾A̴̜̒Ṉ̸̈T̷̰̽E̴̜̒...;From+the+Abyss+I+Rise...;𝔗𝔥𝔢+𝔄𝔫𝔠𝔦𝔢𝔫𝔱+𝔒𝔫𝔢+𝔄𝔴𝔞𝔨𝔢𝔫𝔰...;Ph'nglui+mglw'nafh+Cthulhu...;Quality+through+Cosmic+Horror)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=25&duration=3000&pause=1500&color=FF0000&background=0D0D0D&center=true&vCenter=true&width=1000&height=80&lines=👁️+T̸h̴e̷+W̶a̵t̶c̴h̸e̷r̵+A̴w̷a̸k̴e̷s̶+👁️;🕸️+In̸+t̷h̸e̴+S̵h̷a̶d̸o̶w̵s̴+o̷f̸+C̴o̵d̶e̷+🕸️;⚡+QA+Automation+meets+Eldritch+Terror+⚡;🔥+Breaking+Reality%2C+Building+Nightmares+🔥)
-
-```
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-    🌌 "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" 🌌
-              🕷️ In his house at R'lyeh, the Code sleeps... 🕷️
-                    ⚫ But in strange aeons, QA may die ⚫
-```
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Matrix...;QA+Automation+%7C+Cybersecurity+Enthusiast;Penetration+Testing+%7C+Code+Analysis;Breaking+Systems+to+Build+Better+Ones)
-
-```
-    ██████╗  █████╗  ██████╗ ███████╗
-   ██╔════╝║██╔══██╗██╔═══██╗██╔════╝
-   ██║     ║███████║██║   ██║███████╗
-   ██║     ║██╔══██║██║   ██║╚════██║
-   ╚██████╗║██║  ██║╚██████╔╝███████║
+    ██████╗ █████╗  ██████╗ ███████╗
+   ██╔════╝██╔══██╗██╔═══██╗██╔════╝
+   ██║     ███████║██║   ██║███████╗
+   ██║     ██╔══██║██║   ██║╚════██║
+   ╚██████╗██║  ██║╚██████╔╝███████║
     ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                                             
     ██████╗  █████╗ ███████╗████████╗███████╗     ██╗ █████╗ ███╗   ██╗████████╗███████╗
@@ -34,8 +16,14 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=35&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=120&lines=C̴̰̈A̷̲͌O̵̜̽S̸̱̈...;...R̴̭̾A̸̰̒S̷̰̈T̴̜̽E̸̱̒J̷̰̾A̴̜̒Ṉ̸̈T̷̰̽E̴̜̒...;From+the+Abyss+I+Rise...;𝔗𝔥𝔢+𝔄𝔫𝔠𝔦𝔢𝔫𝔱+𝔒𝔫𝔢+𝔄𝔴𝔞𝔨𝔢𝔫𝔰...;Ph'nglui+mglw'nafh+Cthulhu...;Quality+through+Cosmic+Horror)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nosifer&size=40&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=100&lines=CAOS+RASTEJANTE;THE+ANCIENT+CODE;FROM+THE+ABYSS;QUALITY+AWAKENS)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&duration=3000&pause=1500&color=FF0000&background=111111&center=true&vCenter=true&width=1000&height=80&lines=The+Watcher+Awakens;In+the+Shadows+of+Code;QA+meets+Eldritch+Terror;Breaking+Reality+Building+Nightmares)
+
+```
+         "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn"
+              In his house at R'lyeh, the Code sleeps...
+                    But in strange aeons, QA may die
 ```
 
 ```
@@ -131,17 +119,14 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 ```
 🎯 ACCURACY RATING
-
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Bug Detection
 
-🚀 SPEED INDEX
-
+🚀 SPEED INDEX  
 ▓▓▓▓▓▓▓▓▓░ 90%
 Test Execution
 
 🔒 SECURITY LEVEL
-
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Vulnerability Scan
 ```
@@ -151,17 +136,14 @@ Vulnerability Scan
 
 ```
 ⚡ AUTOMATION RATE
-
 ▓▓▓▓▓▓▓▓▓░ 95%
 Test Coverage
 
 🛡️ DEFENSE MATRIX
-
 ▓▓▓▓▓▓▓▓░░ 85%
 Penetration Resist
 
 💻 CODE QUALITY
-
 ▓▓▓▓▓▓▓▓▓░ 92%
 Clean Architecture
 ```

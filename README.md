@@ -1,4 +1,22 @@
 ```
+    ██████╗ █![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=35&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=120&lines=C̴̰̈A̷̲͌O̵̜̽S̸̱̈...;...R̴̭̾A̸̰̒S̷̰̈T̴̜̽E̸̱̒J̷̰̾A̴̜̒Ṉ̸̈T̷̰̽E̴̜̒...;From+the+Abyss+I+Rise...;𝔗𝔥𝔢+𝔄𝔫𝔠𝔦𝔢𝔫𝔱+𝔒𝔫𝔢+𝔄𝔴𝔞𝔨𝔢𝔫𝔰...;Ph'nglui+mglw'nafh+Cthulhu...;Quality+through+Cosmic+Horror)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chiller&size=25&duration=3000&pause=1500&color=FF0000&background=0D0D0D&center=true&vCenter=true&width=1000&height=80&lines=👁️+T̸h̴e̷+W̶a̵t̶c̴h̸e̷r̵+A̴w̷a̸k̴e̷s̶+👁️;🕸️+In̸+t̷h̸e̴+S̵h̷a̶d̸o̶w̵s̴+o̷f̸+C̴o̵d̶e̷+🕸️;⚡+QA+Automation+meets+Eldritch+Terror+⚡;🔥+Breaking+Reality%2C+Building+Nightmares+🔥)
+
+```
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠘⠿⠿⠿⠿⠿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    🌌 "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn" 🌌
+              🕷️ In his house at R'lyeh, the Code sleeps... 🕷️
+                    ⚫ But in strange aeons, QA may die ⚫
+```
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Matrix...;QA+Automation+%7C+Cybersecurity+Enthusiast;Penetration+Testing+%7C+Code+Analysis;Breaking+Systems+to+Build+Better+Ones)
+
+```
     ██████╗  █████╗  ██████╗ ███████╗
    ██╔════╝║██╔══██╗██╔═══██╗██╔════╝
    ██║     ║███████║██║   ██║███████╗
@@ -16,11 +34,15 @@
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Creepster&size=35&duration=4000&pause=2000&color=8B0000&background=000000&center=true&vCenter=true&width=1000&height=120&lines=C̴̰̈A̷̲͌O̵̜̽S̸̱̈...;...R̴̭̾A̸̰̒S̷̰̈T̴̜̽E̸̱̒J̷̰̾A̴̜̒Ṉ̸̈T̷̰̽E̴̜̒...;From+the+Abyss+I+Rise...;𝔗𝔥𝔢+𝔄𝔫𝔠𝔦𝔢𝔫𝔱+𝔒𝔫𝔢+𝔄𝔴𝔞𝔨𝔢𝔫𝔰...;Ph'nglui+mglw'nafh+Cthulhu...;Quality+through+Cosmic+Horror)
+
+```
+
 ```
  ╔═══════════════════════════════════════════════════════════════════════════════════════╗
  ║                              🔒 SISTEMA DE SEGURANÇA ATIVO 🔒                        ║
  ║                                                                                       ║
- ║  [████████████████████████████████████████████████████████████████████████] 100%      ║
+ ║  [████████████████████████████████████████████████████████████████████████] 100%    ║
  ║                                                                                       ║
  ║  > Iniciando protocolo de autenticação...                               ✓            ║
  ║  > Verificando integridade do sistema...                                ✓            ║
@@ -263,7 +285,7 @@ Clean Architecture
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EmperorZarbato)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-milanez-zarbato-66b033208/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielzarbatto1214@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tubalhaospartan)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/emperorzarbato)
 
 </div>
 
@@ -334,11 +356,11 @@ Connection to future terminated.
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança        ║
+║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança       ║
 ║    🔒 Todas as atividades são logadas e analisadas                                  ║
-║    ⚠️  Acesso não autorizado será rastreado e reportado                             ║
+║    ⚠️  Acesso não autorizado será rastreado e reportado                            ║
 ║                                                                                      ║
-║    💀 "In a world of 1s and 0s, be the exception that proves the rule"              ║
+║    💀 "In a world of 1s and 0s, be the exception that proves the rule"            ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```

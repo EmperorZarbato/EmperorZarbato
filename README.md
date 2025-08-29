@@ -1,10 +1,10 @@
 ```
-    ██████╗╗ █████╗  ██████╗ ███████╗
+    ██████╗  █████╗  ██████╗ ███████╗
    ██╔════╝║██╔══██╗██╔═══██╗██╔════╝
    ██║     ║███████║██║   ██║███████╗
    ██║     ║██╔══██║██║   ██║╚════██║
    ╚██████╗║██║  ██║╚██████╔╝███████║
-    ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ 
+    ╚═════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                                             
     ██████╗  █████╗ ███████╗████████╗███████╗     ██╗ █████╗ ███╗   ██╗████████╗███████╗
     ██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██╔════╝     ██║██╔══██╗████╗  ██║╚══██╔══╝██╔════╝
@@ -18,14 +18,14 @@
 
 ```
  ╔═══════════════════════════════════════════════════════════════════════════════════════╗
- ║                              🔒 SISTEMA DE SEGURANÇA ATIVO 🔒                         ║
+ ║                              🔒 SISTEMA DE SEGURANÇA ATIVO 🔒                        ║
  ║                                                                                       ║
  ║  [████████████████████████████████████████████████████████████████████████] 100%      ║
  ║                                                                                       ║
- ║  > Iniciando protocolo de autenticação...                               ✓             ║
- ║  > Verificando integridade do sistema...                                ✓             ║
- ║  > Escaneando vulnerabilidades...                                       ✓             ║
- ║  > Carregando ferramentas de penetração...                              ✓             ║
+ ║  > Iniciando protocolo de autenticação...                               ✓            ║
+ ║  > Verificando integridade do sistema...                                ✓            ║
+ ║  > Escaneando vulnerabilidades...                                       ✓            ║
+ ║  > Carregando ferramentas de penetração...                              ✓            ║
  ║                                                                                       ║
  ║                           🚀 ACESSO AUTORIZADO 🚀                                    ║
  ╚═══════════════════════════════════════════════════════════════════════════════════════╝
@@ -67,24 +67,25 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=WEAPONS+OF+CHOICE)
+
 ```
 ===============================================================================
-                             WEAPONS OF CHOICE
-===============================================================================
-║                                                                                       ║
-║  🔧 AUTOMATION FRAMEWORK          🕸️ WEB TECHNOLOGIES        🛡️ SECURITY TOOLS       ║
-║  ├─ C# / .NET                     ├─ TypeScript               ├─ Selenium WebDriver   ║
-║  ├─ Selenium WebDriver            ├─ JavaScript               ├─ Burp Suite           ║
-║  ├─ NUnit / MSTest                ├─ HTML5 / CSS3             ├─ OWASP ZAP            ║
-║  ├─ SpecFlow (BDD)                ├─ Tailwind CSS             ├─ Metasploit           ║
-║  └─ Azure DevOps                  └─ React / Angular          └─ Nmap                 ║
-║                                                                                       ║
-║  🐍 PENETRATION TESTING          📊 DATA & ANALYSIS          🌐 NETWORK PROTOCOLS    ║
-║  ├─ Python                        ├─ SQL / NoSQL              ├─ TCP/IP               ║
-║  ├─ Kali Linux                    ├─ JSON / XML               ├─ HTTP/HTTPS           ║
-║  ├─ Wireshark                     ├─ REST APIs                ├─ DNS                  ║
-║  ├─ Hashcat                       ├─ GraphQL                  ├─ SSH / SCP            ║
-║  └─ John the Ripper               └─ PowerBI / Tableau        └─ FTP / SFTP           ║
+
+  🔧 AUTOMATION FRAMEWORK          🕸️ WEB TECHNOLOGIES        🛡️ SECURITY TOOLS       
+  ├─ C# / .NET                     ├─ TypeScript               ├─ Selenium WebDriver   
+  ├─ Selenium WebDriver            ├─ JavaScript               ├─ Burp Suite           
+  ├─ NUnit / MSTest                ├─ HTML5 / CSS3             ├─ OWASP ZAP            
+  ├─ SpecFlow (BDD)                ├─ Tailwind CSS             ├─ Metasploit           
+  └─ Azure DevOps                  └─ React / Angular          └─ Nmap                 
+                                                                                        
+  🐍 PENETRATION TESTING          📊 DATA & ANALYSIS          🌐 NETWORK PROTOCOLS    
+  ├─ Python                        ├─ SQL / NoSQL              ├─ TCP/IP               
+  ├─ Kali Linux                    ├─ JSON / XML               ├─ HTTP/HTTPS           
+  ├─ Wireshark                     ├─ REST APIs                ├─ DNS                  
+  ├─ Hashcat                       ├─ GraphQL                  ├─ SSH / SCP            
+  └─ John the Ripper               └─ PowerBI / Tableau        └─ FTP / SFTP           
+
 ===============================================================================
 ```
 
@@ -96,9 +97,9 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=STATISTICAL+ANALYSIS)
+
 ```
-===============================================================================
-                           STATISTICAL ANALYSIS
 ===============================================================================
 ```
 
@@ -108,17 +109,14 @@ Contact_Protocol: gabrielzarbatto1214@gmail.com
 
 ```
 🎯 ACCURACY RATING
-
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Bug Detection
 
-🚀 SPEED INDEX
-  
+🚀 SPEED INDEX  
 ▓▓▓▓▓▓▓▓▓░ 90%
 Test Execution
 
 🔒 SECURITY LEVEL
-
 ▓▓▓▓▓▓▓▓▓▓ 100%
 Vulnerability Scan
 ```
@@ -128,17 +126,14 @@ Vulnerability Scan
 
 ```
 ⚡ AUTOMATION RATE
-
 ▓▓▓▓▓▓▓▓▓░ 95%
 Test Coverage
 
 🛡️ DEFENSE MATRIX
-
 ▓▓▓▓▓▓▓▓░░ 85%
 Penetration Resist
 
 💻 CODE QUALITY
-
 ▓▓▓▓▓▓▓▓▓░ 92%
 Clean Architecture
 ```
@@ -159,27 +154,28 @@ Clean Architecture
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🚨+MISSION+DASHBOARD+🚨)
+
 ```
 ===============================================================================
-                             🚨 MISSION DASHBOARD 🚨
-===============================================================================
-│                                                                              │
-│  🔴 PROJETO ATIVO: Thomson Reuters QA Automation                            │ 
-│     ├─ Status: [EXECUTANDO]                                                  │
-│     ├─ Progress: ████████████████████████████████████████████████ 85%        │
-│     ├─ Tech Stack: C# + Selenium + TypeScript                                │
-│     └─ Objective: Automated Security Testing Implementation                  │
-│                                                                              │
-│  🟡 MISSÃO SECUNDÁRIA: Learning Advanced Cybersecurity                      │
-│     ├─ Status: [EM PROGRESSO]                                                │
-│     ├─ Progress: ██████████████████████████████████████████ 70%              │
-│     ├─ Focus: Penetration Testing + Ethical Hacking                          │
-│     └─ Tools: Kali Linux, Metasploit, Burp Suite                             │
-│                                                                              │
-│  🟢 OBJETIVO FUTURO: Full-Stack Security Specialist                         │
-│     ├─ Status: [PLANEJADO]                                                   │
-│     ├─ Timeline: Q4 2025                                                     │
-│     └─ Skills: Advanced Pentesting + Security Architecture                   │
+
+  🔴 PROJETO ATIVO: Thomson Reuters QA Automation                                   
+     ├─ Status: [EXECUTANDO]                                                        
+     ├─ Progress: ████████████████████████████████████████████████ 85%             
+     ├─ Tech Stack: C# + Selenium + TypeScript                                      
+     └─ Objective: Automated Security Testing Implementation                        
+                                                                                     
+  🟡 MISSÃO SECUNDÁRIA: Learning Advanced Cybersecurity                             
+     ├─ Status: [EM PROGRESSO]                                                      
+     ├─ Progress: ██████████████████████████████████████████ 70%                   
+     ├─ Focus: Penetration Testing + Ethical Hacking                               
+     └─ Tools: Kali Linux, Metasploit, Burp Suite                                  
+                                                                                     
+  🟢 OBJETIVO FUTURO: Full-Stack Security Specialist                                
+     ├─ Status: [PLANEJADO]                                                         
+     ├─ Timeline: Q4 2025                                                           
+     └─ Skills: Advanced Pentesting + Security Architecture                        
+
 ===============================================================================
 ```
 
@@ -210,34 +206,35 @@ Clean Architecture
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔒+CLASSIFIED+PROJECTS+🔒)
+
 ```
 ===============================================================================
-                           🔒 CLASSIFIED PROJECTS 🔒
-===============================================================================
-║                                                                              ║ 
-║  📁 [REDACTED] - Anti-AFK System                                             ║
-║     ├─ Classification: Public                                                ║
-║     ├─ Language: Python                                                      ║
-║     ├─ Purpose: Automated LSHIFT for Gaming                                  ║
-║     └─ Status: ✅ OPERATIONAL                                                ║
-║                                                                              ║
-║  📁 [PORTFOLIO-BASE] - Security Portfolio                                   ║
-║     ├─ Classification: Public                                               ║
-║     ├─ Language: HTML/CSS                                                   ║
-║     ├─ Purpose: Professional Showcase                                       ║
-║     └─ Status: ✅ DEPLOYED                                                 ║
-║                                                                            ║
-║  📁 [WEB-CRAWLER] - Intelligence Gathering                                 ║
-║     ├─ Classification: Public                                              ║
-║     ├─ Language: Python                                                    ║
-║     ├─ Purpose: Automated Data Collection                                  ║
-║     └─ Status: ✅ ACTIVE                                                  ║
-║                                                                            ║
-║  📁 [DNS-OBLITERATOR] - Network Tool                                      ║
-║     ├─ Classification: Public                                              ║
-║     ├─ Platform: Windows                                                   ║
-║     ├─ Purpose: DNS Management & DoS Protection                            ║
-║     └─ Status: ✅ RELEASED                                                ║
+
+  📁 [REDACTED] - Anti-AFK System                                                     
+     ├─ Classification: Public                                                        
+     ├─ Language: Python                                                              
+     ├─ Purpose: Automated LSHIFT for Gaming                                          
+     └─ Status: ✅ OPERATIONAL                                                        
+                                                                                       
+  📁 [PORTFOLIO-BASE] - Security Portfolio                                            
+     ├─ Classification: Public                                                        
+     ├─ Language: HTML/CSS                                                            
+     ├─ Purpose: Professional Showcase                                                
+     └─ Status: ✅ DEPLOYED                                                           
+                                                                                       
+  📁 [WEB-CRAWLER] - Intelligence Gathering                                           
+     ├─ Classification: Public                                                        
+     ├─ Language: Python                                                              
+     ├─ Purpose: Automated Data Collection                                            
+     └─ Status: ✅ ACTIVE                                                             
+                                                                                       
+  📁 [DNS-OBLITERATOR] - Network Tool                                                 
+     ├─ Classification: Public                                                        
+     ├─ Platform: Windows                                                             
+     ├─ Purpose: DNS Management & DoS Protection                                      
+     └─ Status: ✅ RELEASED                                                           
+
 ===============================================================================
 ```
 
@@ -249,9 +246,9 @@ Clean Architecture
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=🔗+ESTABLISHING+CONNECTIONS+🔗)
+
 ```
-===============================================================================
-                         🔗 ESTABLISHING CONNECTIONS 🔗
 ===============================================================================
 ```
 
@@ -270,9 +267,9 @@ Clean Architecture
 
 <div align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=50&lines=ACHIEVEMENT+UNLOCKED)
+
 ```
-===============================================================================
-                            ACHIEVEMENT UNLOCKED
 ===============================================================================
 ```
 
@@ -331,11 +328,11 @@ Connection to future terminated.
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                      ║
-║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança         ║
-║    🔒 Todas as atividades são logadas e analisadas                                   ║
-║    ⚠️  Acesso não autorizado será rastreado e reportado                              ║
+║    🔴 AVISO DE SEGURANÇA: Este perfil é monitorado por sistemas de segurança       ║
+║    🔒 Todas as atividades são logadas e analisadas                                  ║
+║    ⚠️  Acesso não autorizado será rastreado e reportado                            ║
 ║                                                                                      ║
-║    💀 "In a world of 1s and 0s, be the exception that proves the rule"               ║
+║    💀 "In a world of 1s and 0s, be the exception that proves the rule"            ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
